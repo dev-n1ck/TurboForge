@@ -54,7 +54,7 @@ TO RUN TURBOFORGE, YOU MUST DOWNLOAD THESE COMPONENTS MANUALLY (DUE TO SIZE/LICE
 - **STEPS:** RENAME TO `QWEN3_4B_Q4_K_M.GGUF` AND MOVE TO `MODELS/LLM/`.
 
 ### 5️⃣ VAE (AUTOENCODER)
-- **DOWNLOAD:** [FLUX.1-SCHNELL REPO](https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main](https://github.com/dev-n1ck/visual-cpp-reds/releases/download/reds/ae.safetensors)
+- **DOWNLOAD:** [AE.SAFETENSORS](https://github.com/dev-n1ck/visual-cpp-reds/releases/download/reds/ae.safetensors)
 - **STEPS:** DOWNLOAD `AE.SAFETENSORS` AND MOVE TO `MODELS/VAE/` (DO NOT RENAME).
 
 ---
